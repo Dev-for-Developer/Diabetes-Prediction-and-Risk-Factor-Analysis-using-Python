@@ -9,7 +9,7 @@ This project focuses on predicting diabetes and analyzing key health, lifestyle,
 1. **Predict Diabetes Outcome** using supervised learning models.
 2. **Analyze Feature Importance** to identify major contributing health indicators.
 3. **Segment Patients** using clustering to discover similar risk profiles.
-4. **Study Lifestyle & Genetic Risk Factors** (e.g., smoking, physical activity, family history).
+4. **Study Lifestyle & Genetic Risk Factors** (e.g. smoking, physical activity, family history).
 5. **Predict HbA1c Levels** using regression to model glucose control.
 
 ---
